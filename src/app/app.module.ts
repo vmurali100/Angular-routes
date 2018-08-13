@@ -17,8 +17,7 @@ import { NgbdModalOptions } from './components/home/modal.options';
     AboutComponent,
     BlogComponent,
     NgbdModalOptions,
-    
-  ],
+      ],
   imports: [
     BrowserModule,
     AppRoutingModule,
